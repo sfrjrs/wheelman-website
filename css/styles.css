@@ -9,3 +9,11 @@ body {
     color: #fff;
     text-align: center;
 }
+
+.company-name,
+.company-msg {
+    text-align: center;
+}
+.company-name {
+    font-weight: 400;
+}
